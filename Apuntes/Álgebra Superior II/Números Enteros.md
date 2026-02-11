@@ -86,16 +86,19 @@ $\therefore b\prime = b$. En consecuencia, podemos denotar por $-a \in A$ al ún
 
 ### Axioma 4
 La suma es conmutativa
+
 $$
 a+b=b+a \forall a,b \in A
 $$
 ### Axioma 5
 El producto es asociativo
+
 $$
  a(bc) = (ab)c \forall a,b,c\in A
 $$
 ### Axioma 6
 Existe un neutro multiplicativo distinto de cero
+
 $$
 \forall a \in A \exists u \in A \setminus \{ 0 \} : a\cdot u = a
 $$
@@ -104,14 +107,18 @@ El neutro multiplicativo del axioma 6 es único
 
 ### Axioma 7
 El producto es conmutativo
+
 $$
-1ab=ba \forall a,b \in A
+ab=ba \forall a,b \in A
 $$
 ### Axioma 8
-E.l producto distribuye a la suma
+El producto distribuye a la suma
+
 $$
  a(b+c) = ab+ac \forall a,b,c \in A
 $$
+
+
 ---
 ## Anillos Conmutativos con Unidad
 ### Definición
@@ -143,22 +150,28 @@ Sea un conjunto $A$, junto con un dos operaciones binarias en él $(A,+,\cdot)$ 
 $$
     \therefore a-b \in A^{+}, b-c \in A^{+}
 $$
+
 $$
     \therefore (a-b)+(b-c) \in A^{+} \text{ ax. 10}
 $$
+
 $$
     \implies a-c
 $$
+
 2. Si $a>a \implies a-a \in A^{+} \text{ !}$ 
 3. Supongamos $a>b$
 $$
     \therefore a-b \in A^{+}
 $$
+
 $$
     \therefore b-a \in A^{+}
 $$
+
 $$
     -(a-b) \text{ ! ax. 12}
 $$
+
 
 
