@@ -32,13 +32,16 @@ Estas propiedades (5 y 6) nos dicen que $(\mathbb{Z}, \cdot)$ es un monoide, y s
 Todas juntas nos dicen que $(\mathbb{Z}, +, \cdot)$ es un anillo conmutativo con unidad.
 ## Anillos Conmutativos con Unidad
 ### Definición
-Sea A un conjunto, una operación binaria en A es cualquier función $*: A \times A \to A = (a,a\prime) \rightarrowtail a*a\prime$
+Sea A un conjunto, una operación binaria en A es cualquier función
+$$\cdot: A \times A \to A = (a,a\prime) \rightarrowtail a \cdot a\prime$$
 
 ---
 Sea A cualquier conjunto y consideramos dos operaciones binarias
+
 $$
  +: A\times A \to A, *: A\times A \to A
 $$
+
 Interesa el caso en el que se cumplen los axiomas:
 
 ### Axioma 1
