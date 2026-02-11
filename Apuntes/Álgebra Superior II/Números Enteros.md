@@ -186,4 +186,62 @@ $$
 
 
 
+### Proposición 2
 
+1. Si $a,b \in A$, por ax. 12 se cumple una y solo una de
+
+$$
+a>b, a=b, a<b
+$$
+
+En particular, si $a\in A$ vale 1 y solo una de
+
+$$
+a>0, a=0, a<0
+$$
+
+### Proposición 3
+1. $a>b \implies a+c > b+c$
+   
+   **Demostración:**
+   
+   1. Supongamos que $a>b \text{ }(\therefore a-b \in A^{+})$
+   2. $(a+c)-(b+c) = a-b \in A^{+}$
+
+### Proposición 4
+1. $a>b \land c > 0 \implies ac > bc$
+   
+   **Demostración**
+   1. Suponemos que $a>b \land c>0$
+   2. $a-b \in A^{+}, c \in A^{+}$
+   3. $(a-b)c \in A^{+}$
+   4. $ac-bc$
+   5. $\therefore ac>bc$
+#### Lema
+$a>b \implies -b > -a$ ⭐️
+
+### Proposición 5
+$a>b \land c<0 \implies ac<bc$ ⭐️
+#### Corolario
+Sean $a,b \in A \implies$
+
+**Prop. 4**
+1. $a>0 \land b>0 \implies ab>0$
+   
+**Prop 5**
+2. $a>0 \land b<0 \implies ab<0$
+3. $a<0 \land b>0 \implies ab<0$
+4. $a<0 \land b<0 \implies ab>0$
+
+### Proposición 6
+1. Si $a\ne 0 \implies a^2 > 0$ (en particular, $1>0$).
+   
+   **Demostración** ⭐️
+   
+   1. $a^2=a \cdot a = (-a)(-a) \in A^{+}$ (ax. 11, pues $a \in A^{+}$ o $(-a) \in A^{+}$ (ax. 12))
+### Proposición 7
+1. $a>0 \land b>1 \implies ab > a$
+   
+   **Demostración**
+   
+   1. $ab-a=a(b-1)$ con $a\in A^{+}, (b-1) \in A^{+}$
