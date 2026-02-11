@@ -147,31 +147,40 @@ Sea un conjunto $A$, junto con un dos operaciones binarias en él $(A,+,\cdot)$ 
 
 **Demostración**
 1. Suponemos $a>b$ y $b>c$
+
 $$
     \therefore a-b \in A^{+}, b-c \in A^{+}
 $$
+
 
 $$
     \therefore (a-b)+(b-c) \in A^{+} \text{ ax. 10}
 $$
 
+
+
 $$
     \implies a-c
 $$
 
+
 2. Si $a>a \implies a-a \in A^{+} \text{ !}$ 
 3. Supongamos $a>b$
+
 $$
     \therefore a-b \in A^{+}
 $$
+
 
 $$
     \therefore b-a \in A^{+}
 $$
 
+
 $$
     -(a-b) \text{ ! ax. 12}
 $$
+
 
 
 
