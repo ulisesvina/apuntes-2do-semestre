@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "81d85e60817fc47a",
+    "type": "split",
+    "children": [
+      {
+        "id": "72f5c04292a91c45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b2b15b4e1d5abbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Álgebra Superior II/Números Enteros.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Números Enteros"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "35338efc77e4a921",
+    "type": "split",
+    "children": [
+      {
+        "id": "4067feee997e3e5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30a1b3d173c1e31d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "754d68f01d3c8160",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "96e536a8a21d4bea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c439c2932a6e4a16",
+    "type": "split",
+    "children": [
+      {
+        "id": "45457b1bee31ddcb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb12bde62d6b5698",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Álgebra Superior II/Números Enteros.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Números Enteros"
+            }
+          },
+          {
+            "id": "bde4849ddba3e31f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7c075c85587dc0c5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "db6197439dd141fd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Álgebra Superior II/Números Enteros.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Números Enteros"
+            }
+          },
+          {
+            "id": "4dd4de7c10cf94ca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Álgebra Superior II/Números Enteros.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Números Enteros"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "1b2b15b4e1d5abbc",
+  "lastOpenFiles": [
+    "Álgebra Superior I/Tareas/Tarea 1.md",
+    "Álgebra Superior I/Conjuntos.md",
+    "Álgebra Superior I/Tareas",
+    "Sistemas Operativos/Introducción.md",
+    "Sistemas Operativos/Programación.md",
+    "Álgebra Superior I/Lógica Proposicional.md",
+    "Álgebra Superior II/Números Enteros.md",
+    "Geometría Analítica II/Ecuación de Segundo Grado.md",
+    "Geometría Analítica II/Superficies Cuádricas.md",
+    "Geometría Analítica II/Transformaciones de Möbius.md",
+    "Cálculo Diferencial e Integral II/Integral de Riemann.md",
+    "Geometría Analítica I/Cónicas.md",
+    "Geometría Analítica I/Rectas, Planos, Semiplanos y Semiespacios.md",
+    "Geometría Analítica I/Espacios Vectoriales.md",
+    "Geometría Analítica I/Trigonometría.md",
+    "Geometría Analítica II/Transformaciones.md",
+    "Geometría Analítica II/Geometría de la Esfera.md",
+    "Sistemas Operativos/Sistemas Operativos Modernos.md",
+    "Sistemas Operativos/Entrada-Salida.md",
+    "Sistemas Operativos/Sistemas de Archivos.md",
+    "Sistemas Operativos/Seguridad.md",
+    "Sistemas Operativos/Manejo de Memoria.md",
+    "Sistemas Operativos/Procesos.md",
+    "Sistemas Operativos",
+    "Álgebra Superior I/Números Naturales y Cálculo Combinatorio.md",
+    "Introducción a las Ciencias de la Computación I/Introducción.md",
+    "Álgebra Superior II/Introducción.md",
+    "Álgebra Superior II/Polinomios y Ecuaciones Polinomiales.md",
+    "Introducción a las Ciencias de la Computación I",
+    "Geometría Analítica II",
+    "Geometría Analítica I",
+    "Cálculo Diferencial e Integral II",
+    "Álgebra Superior II",
+    "Álgebra Superior I"
+  ]
+}
