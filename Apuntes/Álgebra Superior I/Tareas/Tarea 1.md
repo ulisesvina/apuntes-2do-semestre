@@ -75,7 +75,7 @@ sentido
 - Está lloviendo y Rei saldrá a jugar.
 - Está lloviendo, por eso Rei saldrá a jugar.
 - A pesar de que está lloviendo, Rei saldrá a jugar.
-- Rei saldrá a jugar a menos de que esté lloviendo.
+- Rrei saldrá a jugar a menos de que esté lloviendo.
 
 2. Indica en cada caso, si la oración obtenida es o no una proposición. Justifica tu respuesta.
 
