@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Álgebra Superior II/Números Enteros.md",
+                "file": "Geometría Analítica I/Tareas/Tarea 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Números Enteros"
+              "title": "Tarea 1"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c439c2932a6e4a16",
@@ -186,9 +187,10 @@
   },
   "active": "1b2b15b4e1d5abbc",
   "lastOpenFiles": [
+    "Geometría Analítica I/Tareas/Tarea 1.md",
     "Álgebra Superior I/Tareas/Tarea 1.md",
-    "Álgebra Superior I/Conjuntos.md",
     "Álgebra Superior II/Números Enteros.md",
+    "Álgebra Superior I/Conjuntos.md",
     "Álgebra Superior II/Tareas/Tarea 1.md",
     "Álgebra Superior II/Tareas",
     "Álgebra Superior I/Tareas",
@@ -214,7 +216,6 @@
     "Sistemas Operativos",
     "Álgebra Superior I/Números Naturales y Cálculo Combinatorio.md",
     "Introducción a las Ciencias de la Computación I/Introducción.md",
-    "Álgebra Superior II/Introducción.md",
     "Introducción a las Ciencias de la Computación I",
     "Geometría Analítica II",
     "Geometría Analítica I",

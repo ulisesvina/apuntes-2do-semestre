@@ -281,3 +281,39 @@ $$a > 0 \;\land\; b > 1 \implies ab > a$$
 >
 > (El producto de unidades es una unidad, donde $A^{\times}$ denota el conjunto de unidades de $A$.)
 
+---
+
+> **_Lema 1:_** $n \ge 1 \forall n \in \mathbb{N}$
+> 
+> **_Demostración:_**
+> Por P.I.M.
+> 1. $1 \ge 1 \text{ ✅ } (1=1)$
+> 2. Sea $n \in \mathbb{N}$ y supongamos que $n \ge 1$
+> 3. $\therefore a + 1 \in \mathbb{Z}^{+} \leftrightarrow a, 1 \in \mathbb{Z}^{+}$
+
+### Proposición 1: Sucesor con orden
+$$
+n>k \leftrightarrow  n\ge k+1 \forall n,k\in \mathbb{Z}
+$$
+---
+## Inducción
+### Primera Variante (Inducción empezando en $k$)
+Sea $k \in \mathbb{Z}$ y sea $\mathbb{Z}_{\ge k}\\^{= \{  a \in \mathbb{Z} \mid a \ge k \}}_{= \{  k+m \mid m \in \mathbb{Z}^{+{}} \}}$  y (obs $\mathbb{Z}_{\ge 1} = \mathbb{Z}^+ = \mathbb{N}$)
+
+#### Principio de Inducción (PI):
+Sea  $C \subseteq \mathbb{Z}_{\ge k}$ tal que
+1. $k \in C$
+2. $\forall a \in \mathbb{Z}_{\ge k} (a\in C \implies a+1\in C)$
+
+Entonces, $C = \mathbb{Z}_{\ge k}$
+
+#### Demostración del PI' a partir del PI:
+1. Sea C como en el de PI'
+2. Sea $D = \{  m \in \mathbb{N} \mid k+m-1 \in C  \} \subseteq \mathbb{N}$
+3. como $k= k+1 -1 \therefore 1 \in D$
+4. Sea $m \in \mathbb{N}$ y suponiendo $m \in D$
+5. $\therefore a:= k +m -1 \in C$ ($m-1 \ge 0 \implies a \in \mathbb{Z}_{\ge k}$)
+6. por (2), $a+1 \in C$ y como $a+1 = k +m = k+(m+1) -1 \in C$
+7. $\therefore m+1 \in D$
+8. por PI (clásico), $D = \mathbb{N} \square$.
+9. 
