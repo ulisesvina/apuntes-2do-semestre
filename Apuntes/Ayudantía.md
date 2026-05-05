@@ -9,6 +9,7 @@ Se resuelve utilizando la fórmula general para ecuaciones de segundo grado ("fo
 Sea $w = x+iy$, entonces $(x^2-y^2) + 2xyi = -5+12i$.
 
 Planteamos el sistema de ecuaciones:
+
 $$
 \begin{cases}
 x^2 - y^2 = -5 & \text{(1)} \\
@@ -17,6 +18,7 @@ x^2 - y^2 = -5 & \text{(1)} \\
 $$
 
 Elevamos al cuadrado ambos lados de (1) y (2):
+
 $$
 \begin{cases}
 x^4 - 2x^2y^2 + y^4 = 25 & \text{(3)} \\
@@ -25,8 +27,14 @@ x^4 - 2x^2y^2 + y^4 = 25 & \text{(3)} \\
 $$
 
 Sumamos (3) y (4) para obtener el cuadrado del módulo ($|w|^2$):
-$$ x^4 + 2x^2y^2 + y^4 = 169 \implies (x^2+y^2)^2 = 13^2 $$
-$$ \implies x^2 + y^2 = 13 \quad \text{(5)} $$
+
+$$
+x^4 + 2x^2y^2 + y^4 = 169 \implies (x^2+y^2)^2 = 13^2
+$$
+
+$$
+\implies x^2 + y^2 = 13 \quad \text{(5)}
+$$
 
 Para hallar $x$ e $y$, operamos con (1) y (5):
 *   **Sumando (1) y (5):** $2x^2 = 8 \implies x^2 = 4 \implies x = \pm 2$.
