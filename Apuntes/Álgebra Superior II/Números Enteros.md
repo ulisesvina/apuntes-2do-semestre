@@ -316,4 +316,20 @@ Entonces, $C = \mathbb{Z}_{\ge k}$
 6. por (2), $a+1 \in C$ y como $a+1 = k +m = k+(m+1) -1 \in C$
 7. $\therefore m+1 \in D$
 8. por PI (clásico), $D = \mathbb{N} \square$.
-9. 
+
+ ---
+Si $(A, A^+)$ es dominio ordenado: $\text{Principio de Inducción} \leftrightarrow \text{ Principio de Buen Orden} \leftrightarrow \text{Principio de Inducción Completa} \leftrightarrow \text{Principio de Inducción}$ (son equivalentes).
+
+En esencia, solo hay un dominio ordenado $(A, A^+) \equiv (\mathbb{Z}, \mathbb{N})$ pues satisface cualquiera que estos axiomas equivalentes.
+
+Sean dos conjuntos $X,Y$ tal que $|X| = |Y| \leftrightarrow \exists f:X\to Y$
+
+**Definición:** El conjunto $X$ es finito si $(Y \subseteq X) \land |Y|=|X| \implies Y=X$. Se dice que $X$ es infinito si no es finito.
+
+**Definición:** Si $n \in \mathbb{N}$, decimos que el conjunto $X$ tiene $n$ elementos si  $|X| = |I_{n}|$
+
+### Teorema 1
+Dado cualquier conjunto $X$,
+1. $X$ es finito $\leftrightarrow  \exists ! n in \mathbb{N} : |X| = n$
+2. Si $X$ es inifnito, $\exists f: \mathbb{N} \rightarrowtail X$
+3. 

@@ -82,3 +82,8 @@ Sean $f:[a,b] \to \mathbb{R}$ acotada y $P,Q$ particiones de $[a,b]$ tales que $
 $$
 S(f,Q) \le S(f,P)
 $$
+![[Pasted image 20260302155143.png]]
+$$
+\text{Fig. 1: Yo cuando el profe se saca una integral del culo}
+$$
+

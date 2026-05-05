@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "72f5c04292a91c45",
+        "id": "5527ec4fa26f300d",
         "type": "tabs",
         "children": [
           {
-            "id": "1b2b15b4e1d5abbc",
+            "id": "40f5ea90443bd64a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geometría Analítica I/Tareas/Tarea 1.md",
+                "file": "Álgebra Superior II/Ejercicios Ayudantía.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tarea 1"
+              "title": "Ejercicios Ayudantía"
+            }
+          },
+          {
+            "id": "28e6858422f12099",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ayudantía.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ayudantía"
+            }
+          },
+          {
+            "id": "15f28ecac0de619a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transformaciones Lineales.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Transformaciones Lineales"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c439c2932a6e4a16",
@@ -185,42 +213,45 @@
       "bases:Create new base": false
     }
   },
-  "active": "1b2b15b4e1d5abbc",
+  "active": "15f28ecac0de619a",
   "lastOpenFiles": [
+    "Ayudantía.md",
+    "Transformaciones Lineales.md",
+    "Álgebra Superior II/Ejercicios Ayudantía.md",
+    "Álgebra Superior II/Polinomios y Ecuaciones Polinomiales.md",
+    "Untitled.md",
+    "Álgebra Superior II/Divisibilidad.md",
+    "Álgebra Superior II/Números Complejos.md",
+    "HackODS/Narrativa HackODS.md",
+    "Geometría Analítica II/Ecuación de las Superficies Cónicas.md",
+    "HackODS",
     "Geometría Analítica I/Tareas/Tarea 1.md",
-    "Álgebra Superior I/Tareas/Tarea 1.md",
-    "Álgebra Superior II/Números Enteros.md",
+    "Álgebra Superior I/Ejercicios/Examen de Conjuntos.md",
+    "Álgebra Superior I/Ejercicios/2.5.2.md",
+    "Cálculo Diferencial e Integral II/Integral de Riemann.md",
+    "Pasted image 20260302155143.png",
+    "Álgebra Superior I/Lógica Proposicional.md",
     "Álgebra Superior I/Conjuntos.md",
+    "Untitled.canvas",
+    "Sistemas Operativos/Procesos.md",
+    "Sistemas Operativos/Introducción.md",
+    "Álgebra Superior II/Números Enteros.md",
+    "Álgebra Superior II/Introducción.md",
+    "Álgebra Superior I/Ejercicios",
+    "Álgebra Superior I/Tareas/Tarea 1.md",
     "Álgebra Superior II/Tareas/Tarea 1.md",
     "Álgebra Superior II/Tareas",
     "Álgebra Superior I/Tareas",
-    "Sistemas Operativos/Introducción.md",
     "Sistemas Operativos/Programación.md",
-    "Álgebra Superior I/Lógica Proposicional.md",
     "Geometría Analítica II/Ecuación de Segundo Grado.md",
     "Geometría Analítica II/Superficies Cuádricas.md",
     "Geometría Analítica II/Transformaciones de Möbius.md",
-    "Cálculo Diferencial e Integral II/Integral de Riemann.md",
     "Geometría Analítica I/Cónicas.md",
-    "Geometría Analítica I/Rectas, Planos, Semiplanos y Semiespacios.md",
-    "Geometría Analítica I/Espacios Vectoriales.md",
-    "Geometría Analítica I/Trigonometría.md",
-    "Geometría Analítica II/Transformaciones.md",
-    "Geometría Analítica II/Geometría de la Esfera.md",
-    "Sistemas Operativos/Sistemas Operativos Modernos.md",
-    "Sistemas Operativos/Entrada-Salida.md",
-    "Sistemas Operativos/Sistemas de Archivos.md",
-    "Sistemas Operativos/Seguridad.md",
-    "Sistemas Operativos/Manejo de Memoria.md",
-    "Sistemas Operativos/Procesos.md",
     "Sistemas Operativos",
-    "Álgebra Superior I/Números Naturales y Cálculo Combinatorio.md",
-    "Introducción a las Ciencias de la Computación I/Introducción.md",
     "Introducción a las Ciencias de la Computación I",
     "Geometría Analítica II",
     "Geometría Analítica I",
     "Cálculo Diferencial e Integral II",
-    "Álgebra Superior II",
-    "Álgebra Superior I"
+    "Álgebra Superior II"
   ]
 }
